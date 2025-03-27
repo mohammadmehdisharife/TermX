@@ -1,52 +1,33 @@
-# Prerequisites
-*.d
-
-# Object files
+# for building
 *.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
 *.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+*.exe
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# for vim
+*.swp
+*.bak
+*.un~
+*~
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+#for vscode
+.vscode/
+.code-workspace
+
+#for eclipse
+.project
+.classpath
+.settings/
+
+#for xcode
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/ 
+
+#for idea
+.idea/
+*.iml
+
+#for NetBeans
+nbproject/
+build/
+
