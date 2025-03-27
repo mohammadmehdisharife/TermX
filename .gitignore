@@ -1,4 +1,17 @@
 # for building
+ls
+cd
+rm
+mkdir
+pwd
+cp
+mv
+cat
+touch
+echo
+ps
+df
+du
 *.o
 *.out
 *.exe
