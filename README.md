@@ -4,7 +4,7 @@
 
 TermX – A versatile command-line toolkit for Linux, providing efficient tools
 
-### TermuX Features
+### TermX Features
 
 - `ls` command lists the contents of a directory
 - `cd` command changes the current working directory
