@@ -17,7 +17,5 @@ TermX – A versatile command-line toolkit for Linux, providing efficient tools
 - `touch` Create a new empty file or update the file's modification time.
 - `echo` Display text or variables on the command line.
 - `ps` Display running processes.
-- `df` Display disk space usage.
-- `du` Display disk space usage by files and directories.
 
 #### Submit a pull request to contribute to the development.
