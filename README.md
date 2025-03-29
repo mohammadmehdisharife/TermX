@@ -12,9 +12,9 @@ TermX – A versatile command-line toolkit for Linux, providing efficient tools
 - `mkdir` command creates a new directory
 - `pwd` Display the path of the current directory.
 - `cp` Copy files or directories.
-- `mv ` Move or rename files and directories.
-- `cat` Display the contents of a file.
-- `touch` Create a new empty file or update the file's modification time.
+- `mv` Move or rename files and directories.
+- `cat` Display the contents of a file. (Implemented)
+- `touch` Create a new empty file or update the file's modification time. (Implemented)
 - `echo` Display text or variables on the command line.
 - `ps` Display running processes.
 
