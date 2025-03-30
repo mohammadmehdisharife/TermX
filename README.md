@@ -15,7 +15,7 @@ TermX – A versatile command-line toolkit for Linux, providing efficient tools
 - `mv` Move or rename files and directories.
 - `cat` Display the contents of a file. (Implemented)
 - `touch` Create a new empty file or update the file's modification time. (Implemented)
-- `echo` Display text or variables on the command line.
+- `echo` Display text or variables on the command line. (Implemented)
 - `ps` Display running processes.
 
 #### Submit a pull request to contribute to the development.
