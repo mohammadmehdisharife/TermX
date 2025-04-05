@@ -1,0 +1,36 @@
+#project name
+ls
+
+# for building
+*.o
+*.out
+*.exe
+
+# for vim
+*.swp
+*.bak
+*.un~
+*~
+
+#for vscode
+.vscode/
+.code-workspace
+
+#for eclipse
+.project
+.classpath
+.settings/
+
+#for xcode
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/ 
+
+#for idea
+.idea/
+*.iml
+
+#for NetBeans
+nbproject/
+build/
+
