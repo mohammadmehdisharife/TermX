@@ -7,7 +7,7 @@ TermX – A versatile command-line toolkit for Linux, providing efficient tools
 ### TermX Features
 
 - `ls` command lists the contents of a directory. (Implemented)
-- `mkdir` command creates a new directory
+- `mkdir` command creates a new directory (Implemented)
 - `pwd` Display the path of the current directory. (Implemented)
 - `cat` Display the contents of a file. (Implemented)
 - `touch` Create a new empty file or update the file's modification time. (Implemented)
