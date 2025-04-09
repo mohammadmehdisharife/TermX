@@ -7,7 +7,6 @@ TermX – A versatile command-line toolkit for Linux, providing efficient tools
 ### TermX Features
 
 - `ls` command lists the contents of a directory. (Implemented)
-- `rm` command removes files or directories
 - `mkdir` command creates a new directory
 - `pwd` Display the path of the current directory. (Implemented)
 - `cp` Copy files or directories.
