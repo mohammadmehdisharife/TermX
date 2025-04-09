@@ -1,7 +1,5 @@
 # TermX
 
-> **Warning:** It is still under development and is not available for use at this time.
-
 TermX – A versatile command-line toolkit for Linux, providing efficient tools
 
 ### TermX Features
