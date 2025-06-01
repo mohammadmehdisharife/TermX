@@ -1,6 +1,6 @@
 # TermX
 
-TermX – A versatile command-line toolkit for Linux, providing efficient tools
+TermX – A clone of coreutils for learning system calls and GNU coding style.
 
 ### TermX Features
 
