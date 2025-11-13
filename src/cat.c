@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <unistd.h>
 
-#define BUF_SIZE 4096
+#define BUF_SIZE 131072
 
 int main(int argc, char *argv[]) {
 
